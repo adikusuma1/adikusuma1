@@ -49,7 +49,6 @@ I’m a computer engineering student passionate about building real-world AI sys
   <img src="https://skillicons.dev/icons?i=powerbi,tableau,grafana" alt="Visualization" title="Data Viz"/>
   <img src="https://skillicons.dev/icons?i=figma,illustrator" alt="Design" title="Design Tools"/>
 </div>
----
 
 ### 📊 GitHub Overview
 
