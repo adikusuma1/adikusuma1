@@ -37,17 +37,31 @@ I’m a computer engineering student passionate about building real-world AI sys
 
 ---
 
-<h3>Technical Skills</h3>
-<div>
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,keras,pytorch" alt="AI/ML" title="AI/ML Frameworks"/>
-  <img src="https://skillicons.dev/icons?i=pandas,numpy,matplotlib,seaborn" alt="Data Science" title="Data Analysis"/>
-  <img src="https://skillicons.dev/icons?i=java,cpp,js,ts" alt="Programming" title="Languages"/>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,django,flask" alt="Backend" title="Backend Tech"/>
-  <img src="https://skillicons.dev/icons?i=sql,mongodb,postgres,mysql" alt="Databases" title="Databases"/>
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,azure,gcp" alt="DevOps" title="Cloud & DevOps"/>
-  <img src="https://skillicons.dev/icons?i=git,github,gitlab,vscode" alt="Tools" title="Development Tools"/>
-  <img src="https://skillicons.dev/icons?i=powerbi,tableau,grafana" alt="Visualization" title="Data Viz"/>
-  <img src="https://skillicons.dev/icons?i=figma,illustrator" alt="Design" title="Design Tools"/>
+<h2>Technical Skills</h2>
+<div style="display: grid; grid-template-columns: repeat(4, 1fr); gap: 10px;">
+  <!-- AI/ML -->
+  <div>
+    <img src="https://skillicons.dev/icons?i=python,tensorflow,keras,pytorch" alt="AI/ML" style="height: 30px;">
+    <p>AI/ML Frameworks</p>
+  </div>
+  
+  <!-- Data Engineering -->
+  <div>
+    <img src="https://skillicons.dev/icons?i=aws,azure,gcp,docker" alt="Cloud/DevOps" style="height: 30px;">
+    <p>Cloud & DevOps</p>
+  </div>
+  
+  <!-- Data Analysis -->
+  <div>
+    <img src="https://skillicons.dev/icons?i=pandas,sql,powerbi,tableau" alt="Data Tools" style="height: 30px;">
+    <p>Data Analysis</p>
+  </div>
+  
+  <!-- Programming -->
+  <div>
+    <img src="https://skillicons.dev/icons?i=cpp,java,js,nodejs" alt="Programming" style="height: 30px;">
+    <p>Languages</p>
+  </div>
 </div>
 
 ### 📊 GitHub Overview
