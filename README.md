@@ -1,12 +1,12 @@
 <!-- Elegant GitHub README | Dark Pastel Theme -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=gradient&text=Hi%20👋%20I'm%20Adi%20Nuhgraha&fontAlignY=40&fontColor=ffffff&fontSize=40&desc=Computer%20Engineering%20%7C%20ML%20%7C%20Data%20%7C%20Embedded&descSize=20&descAlignY=60" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=gradient&text=Hi%20👋%20I'm%20Adi%20Kusuma&fontAlignY=40&fontColor=ffffff&fontSize=40&desc=Computer%20Engineering%20%7C%20ML%20%7C%20Data%20%7C%20Embedded&descSize=20&descAlignY=60" />
 </p>
 
 <p align="center">
   <strong>Computer Engineering @ Universitas Brawijaya (GPA: 3.96)</strong><br>
-  Passionate about AI Systems, Data Engineering, and Embedded Intelligence<br>
+  Passionate about AI Systems, Data Engineering, Data Analytics, BackEnd Development, and Embedded System<br>
   📍 Jakarta, Indonesia · 📧 adikusuma@student.ub.ac.id · <a href="https://linkedin.com/in/adiikusuma">LinkedIn</a>
 </p>
 
@@ -14,15 +14,13 @@
 
 ### 🌿 About Me
 
-Driven to build smart, scalable, and efficient systems — from machine learning pipelines to microcontroller-based vision systems. Always blending logic with creativity to solve meaningful problems.
+I’m a computer engineering student passionate about building real-world AI systems that run smart and small. I love turning messy data into insights, deploying lightweight ML models to microcontrollers, and architecting efficient backend services for scale.
 
 ---
 
 ### 🏅 Achievements
 
 - 🥉 3rd Place – Capstone AIoT Showcase, FILKOM UB 2025  
-- 🧠 Selected Projects featured in campus showcase and workshops  
-- 🥈 Finalist – Data Hackathon by AWS x Dicoding (2024)
 
 ---
 
