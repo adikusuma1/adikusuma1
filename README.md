@@ -37,32 +37,39 @@ I’m a computer engineering student passionate about building real-world AI sys
 
 ---
 
-<h2>Technical Skills</h2>
-<div style="display: grid; grid-template-columns: repeat(4, 1fr); gap: 10px;">
+<h2 align="center">🛠️ Technical Skills</h2>
+
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 16px;">
+
   <!-- AI/ML -->
-  <div>
-    <img src="https://skillicons.dev/icons?i=python,tensorflow,keras,pytorch" alt="AI/ML" style="height: 30px;">
-    <p>AI/ML Frameworks</p>
+  <div align="center">
+    <img src="https://skillicons.dev/icons?i=python,tensorflow,keras,pytorch" height="32px" />
+    <p style="color:#B19CD9">AI / Machine Learning</p>
   </div>
-  
-  <!-- Data Engineering -->
-  <div>
-    <img src="https://skillicons.dev/icons?i=aws,azure,gcp,docker" alt="Cloud/DevOps" style="height: 30px;">
-    <p>Cloud & DevOps</p>
+
+  <!-- Cloud & DevOps -->
+  <div align="center">
+    <img src="https://skillicons.dev/icons?i=aws,azure,docker,gcp" height="32px" />
+    <p style="color:#9BB7D4">Cloud & DevOps</p>
   </div>
-  
+
   <!-- Data Analysis -->
-  <div>
-    <img src="https://skillicons.dev/icons?i=pandas,sql,powerbi,tableau" alt="Data Tools" style="height: 30px;">
-    <p>Data Analysis</p>
+  <div align="center">
+    <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white" />
+    <img src="https://img.shields.io/badge/SQL-003B57?style=flat&logo=mysql&logoColor=white" />
+    <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black" />
+    <img src="https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white" />
+    <p style="color:#98AFC7">Data Analysis & Visualization</p>
   </div>
-  
-  <!-- Programming -->
-  <div>
-    <img src="https://skillicons.dev/icons?i=cpp,java,js,nodejs" alt="Programming" style="height: 30px;">
-    <p>Languages</p>
+
+  <!-- Programming Languages -->
+  <div align="center">
+    <img src="https://skillicons.dev/icons?i=cpp,java,js,nodejs" height="32px" />
+    <p style="color:#D8BFD8">Programming Languages</p>
   </div>
+
 </div>
+
 
 ### 📊 GitHub Overview
 
