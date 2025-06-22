@@ -1,37 +1,58 @@
-<h1 align="center">Hi 👋, I'm Nur Adiyanto Kusuma Nuhgraha</h1>
-<p align="center">Computer Engineering Student @ Universitas Brawijaya</p>
+<!-- GitHub README | Aesthetic, Clean, and Concise -->
 
-🎓 GPA 3.96 | Passionate about Machine Learning, Data Engineering, and Backend Systems  
-🏆 3rd Place - Capstone AIoT Showcase FILKOM UB 2025  
-📍 Jakarta, Indonesia | 📫 adikusuma@student.ub.ac.id
-
----
-
-### 🔧 Tech Stack
-- **Languages**: Python, C++, SQL, Java, JavaScript  
-- **Tools**: Power BI, Tableau, Docker, Git, MongoDB, Figma  
-- **Frameworks**: TensorFlow, Scikit-learn, NodeJS, ExpressJS, Keras  
-- **Cloud**: AWS, Azure  
+<h1 align="center">Hi, I'm Nur Adiyanto Kusuma Nuhgraha 👋</h1>
+<p align="center">
+  Computer Engineering @ Universitas Brawijaya (GPA: 3.96)<br>
+  Passionate about Machine Learning, Data Engineering, and Embedded AI<br>
+  📍 Jakarta | 📧 adikusuma@student.ub.ac.id | 🌐 <a href="https://www.linkedin.com/in/adiikusuma/">LinkedIn</a>
+</p>
 
 ---
 
-### 🔬 Highlight Projects
-- **Smart Surveillance System (ESP32-CAM)**  
-  AI model (MobileNetV2) deployment on embedded device for detecting uniforms & authorized faces.
-
-- **Grocery Sales Analysis (Power BI + SQL)**  
-  End-to-end analytics pipeline + interactive dashboards.
-
-- **AI-Powered Property Investment**  
-  Intelligent recommender system using A* search & Prolog.
+### 🧠 About Me
+- 🏆 **3rd Place**, Capstone AIoT Showcase FILKOM UB 2025  
+- 💡 Love solving real-world problems using data & embedded intelligence  
+- ⚙️ Build: Scalable ML pipelines, Smart Dashboards, Real-Time IoT Systems  
+- 🔭 Currently exploring MLOps, Edge Deployment, and LLM integration  
 
 ---
 
-### 📈 GitHub Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=adiikusuma&show_icons=true&theme=gruvbox)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adiikusuma&layout=compact&theme=gruvbox)
+### 🚀 Featured Projects
+
+| Project | Tech Stack | Description |
+|--------|------------|-------------|
+| **Smart Surveillance AI** | ESP32-CAM, TensorFlow, AWS IoT | Edge system for uniform & face detection (MobileNetV2, 70KB, 89% acc) |
+| **Grocery Sales Dashboard** | SQL, Power BI, Python | Cleaned & visualized sales data into dynamic, automated KPI dashboards |
+| **Emotion Detector (CNN)** | TensorFlow, OpenCV | Realtime 4-class emotion classifier with 92% accuracy |
+| **Property Recommender AI** | A* Search, Prolog | AI tool to find optimal investment from 5,000+ property listings |
 
 ---
 
-### 🔗 Let's Connect
-[LinkedIn](https://www.linkedin.com/in/adiikusuma/) | [Email](mailto:adikusuma@student.ub.ac.id)
+### 🛠 Tech Stack
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,cpp,sql,js,java" />
+  <img src="https://skillicons.dev/icons?i=tensorflow,keras,docker,git,aws,azure,mongodb,powerbi,figma" />
+</div>
+
+---
+
+### 📈 GitHub Overview
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=adiikusuma&show_icons=true&theme=calm&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adiikusuma&layout=compact&theme=calm&hide_border=true" width="48%" />
+</p>
+
+---
+
+### ☕ Let's Connect
+
+<p align="center">
+  <a href="mailto:adikusuma@student.ub.ac.id">
+    <img src="https://img.shields.io/badge/-Email-black?style=flat-square&logo=gmail&logoColor=white">
+  </a>
+  <a href="https://www.linkedin.com/in/adiikusuma/">
+    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white">
+  </a>
+</p>
