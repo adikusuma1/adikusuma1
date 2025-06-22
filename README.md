@@ -1,66 +1,67 @@
-<!-- GitHub Profile | Elegant, Aesthetic, Minimalist -->
+<!-- Profil Estetik README.md GitHub -->
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=SF+Mono&size=26&pause=1200&color=000000&center=true&vCenter=true&width=500&lines=Hey%2C+I%27m+Adi+Nuhgraha.;Computer+Engineering+%F0%9F%96%A5%EF%B8%8F;ML+%7C+Data+%7C+Edge+Systems+Enthusiast.">
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:5e60ce,100:7400b8&height=200&section=header&text=Hi%20👋%20I'm%20Adi%20Nuhgraha&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&center=true&vCenter=true&width=440&lines=Computer+Engineering+Student;Machine+Learning+Enthusiast;Data+%26+Backend+Engineer" />
+</p>
 
 ---
 
-<div align="center">
+### 💡 About Me
 
-🎓 Universitas Brawijaya — GPA 3.96  
+🎓 **Universitas Brawijaya** — Bachelor of Computer Engineering  
+🏆 **3rd Place** – Capstone AIoT Showcase FILKOM UB 2025  
 📍 Jakarta, Indonesia  
-🧠 Passionate about building intelligent, real-time systems  
-🏆 3rd Place — Capstone AIoT Showcase FILKOM UB 2025  
-
-</div>
+💬 Interested in: AI Systems, Data Engineering, Edge AI
 
 ---
 
-### ✨ What I Love Building
+### 🔧 Tech Stack
 
-- 💡 Real-time AI on microcontrollers (Edge ML / IoT)
-- 📊 Smart dashboards for data-driven decisions
-- 🔍 Machine Learning models that *actually* deploy
-- ⚙️ Backend pipelines that just work
-
----
-
-### 🔧 Tech I Work With
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,sql,js,java,tensorflow,keras,docker,git,aws,azure,mongodb,figma&perline=7" />
-</div>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,cpp,java,javascript,html,css,sql" />
+  <br />
+  <img src="https://skillicons.dev/icons?i=tensorflow,keras,pytorch,docker,azure,aws,git,mongodb,figma" />
+</p>
 
 ---
 
 ### 🚀 Highlight Projects
 
-| Project | Stack | Summary |
-|--------|-------|---------|
-| 🎯 **Smart Surveillance AI** | ESP32-CAM, MobileNetV2, AWS IoT | Edge system to detect uniforms & authorized faces, 70KB model, real-time alerts. |
-| 📊 **Sales Dashboard** | SQL, Power BI, Python | Cleaned messy sales data & built dynamic BI dashboards with auto-KPIs. |
-| 🧠 **Emotion Detector** | TensorFlow, OpenCV | 92% test accuracy on real-time facial emotion recognition. |
-| 🏘️ **Property Recommender** | Python, Prolog, A* | AI system to find the best-fit property investments in East Java. |
+- 🎯 **Smart Surveillance AI (ESP32-CAM + MobileNetV2)**  
+  <sub>Detecting uniforms & verifying personnel in real-time using edge AI & AWS IoT</sub>
+
+- 📊 **Blinkit Mart Sales Analysis (SQL + Power BI)**  
+  <sub>Full pipeline project with dynamic dashboards for KPI tracking</sub>
+
+- 🧠 **Emotion Detection with CNN (92% Accuracy)**  
+  <sub>Facial expression classifier in real-time using OpenCV + TensorFlow</sub>
+
+- 🏘️ **Property Investment Recommender**  
+  <sub>A* Search + Prolog reasoning to find optimal housing investment</sub>
 
 ---
 
-### 📈 Stats (Clean View)
+### 📈 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=adiikusuma&show_icons=false&theme=default&hide_border=true" width="47%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adiikusuma&layout=compact&theme=default&hide_border=true" width="47%" />
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=adiikusuma&show_icons=true&theme=tokyonight&hide_border=true" width="47%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=adiikusuma&theme=tokyonight&hide_border=true" width="47%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adiikusuma&layout=compact&theme=tokyonight&hide_border=true" width="47%" />
+</p>
 
 ---
 
 ### 📫 Reach Me
 
-<div align="center">
-  <a href="mailto:adikusuma@student.ub.ac.id">
-    <img src="https://img.shields.io/badge/Gmail-adikusuma%40student.ub.ac.id-black?style=flat-square&logo=gmail&logoColor=white">
-  </a>
-  <a href="https://www.linkedin.com/in/adiikusuma/">
-    <img src="https://img.shields.io/badge/LinkedIn-Adi%20Nuhgraha-0A66C2?style=flat-square&logo=linkedin&logoColor=white">
-  </a>
-</div>
+<p align="center">
+  <a href="mailto:adikusuma@student.ub.ac.id"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/adiikusuma/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:5e60ce,100:7400b8&height=120&section=footer"/>
+
