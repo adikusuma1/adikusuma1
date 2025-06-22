@@ -56,6 +56,8 @@ I’m a computer engineering student passionate about building real-world AI sys
   <!-- Data Analysis -->
   <div align="center">
     <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white" />
+    <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=azuredatabricks&logoColor=white" />
+    <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=sparks&logoColor=white" />
     <img src="https://img.shields.io/badge/SQL-003B57?style=flat&logo=mysql&logoColor=white" />
     <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black" />
     <img src="https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white" />
