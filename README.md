@@ -37,12 +37,18 @@ I’m a computer engineering student passionate about building real-world AI sys
 
 ---
 
-### 🧰 Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,nodejs,sql,java,js,tensorflow,pandas,seaborn,powerbi,keras,docker,git,azure,aws,mongodb,powerbi,figma" />
-</p>
-
+<h3>Technical Skills</h3>
+<div>
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,keras,pytorch" alt="AI/ML" title="AI/ML Frameworks"/>
+  <img src="https://skillicons.dev/icons?i=pandas,numpy,matplotlib,seaborn" alt="Data Science" title="Data Analysis"/>
+  <img src="https://skillicons.dev/icons?i=java,cpp,js,ts" alt="Programming" title="Languages"/>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,django,flask" alt="Backend" title="Backend Tech"/>
+  <img src="https://skillicons.dev/icons?i=sql,mongodb,postgres,mysql" alt="Databases" title="Databases"/>
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,azure,gcp" alt="DevOps" title="Cloud & DevOps"/>
+  <img src="https://skillicons.dev/icons?i=git,github,gitlab,vscode" alt="Tools" title="Development Tools"/>
+  <img src="https://skillicons.dev/icons?i=powerbi,tableau,grafana" alt="Visualization" title="Data Viz"/>
+  <img src="https://skillicons.dev/icons?i=figma,illustrator" alt="Design" title="Design Tools"/>
+</div>
 ---
 
 ### 📊 GitHub Overview
