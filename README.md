@@ -21,10 +21,6 @@ I’m a computer engineering student passionate about building real-world AI sys
 ### 🏆 Achievements
 
 - 🥉 **3rd Place** – Capstone AIoT Showcase, FILKOM UB 2025  
-- 💡 **Top 1%** – AI Edge Deployment Coursework (ESP32-CAM + MobileNetV2)  
-- 🥈 Finalist – Data & ML Hackathon by Dicoding x AWS  
-- 🧪 Led 6+ AI/ML engineering projects during undergrad  
-- 📊 Featured for Power BI sales analytics on campus workshop
 
 ---
 
