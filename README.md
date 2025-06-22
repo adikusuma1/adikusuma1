@@ -40,7 +40,7 @@ I’m a computer engineering student passionate about building real-world AI sys
 ### 🧰 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,sql,java,js,tensorflow,keras,docker,git,azure,aws,mongodb,powerbi,figma" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,nodejs,sql,java,js,tensorflow,pandas,seaborn,powerbi,keras,docker,git,azure,aws,mongodb,powerbi,figma" />
 </p>
 
 ---
