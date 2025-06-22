@@ -1,7 +1,7 @@
 <!-- Elegant GitHub README | Pastel Themed (Ungu/Nila) -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=gradient&text=Hi,%20I'm%20Adi%20Nuhgraha%20👋&fontAlignY=40&fontColor=ffffff&fontSize=40&desc=Engineer%20%7C%20AI%20%7C%20Data%20%7C%20Embedded&descSize=20&descAlignY=60" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=gradient&text=Hi,%20I'm%20Adi%20Kusuma%20👋&fontAlignY=40&fontColor=ffffff&fontSize=40&desc=Engineer%20%7C%20AI%20%7C%20Data%20%7C%20Embedded&descSize=20&descAlignY=60" />
 </p>
 
 <p align="center">
