@@ -1,67 +1,67 @@
-<!-- Profil Estetik README.md GitHub -->
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:5e60ce,100:7400b8&height=200&section=header&text=Hi%20👋%20I'm%20Adi%20Nuhgraha&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+<!-- Apple-Style Minimalist GitHub README -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&center=true&vCenter=true&width=440&lines=Computer+Engineering+Student;Machine+Learning+Enthusiast;Data+%26+Backend+Engineer" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&width=435&lines=Hi%2C+I'm+Adi+Nuhgraha;Computer+Engineering+Student;AI+%7C+Data+%7C+Edge+Systems" />
+</p>
+
+<br>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Location-Jakarta-lightgrey?style=flat-square&logo=googlemaps&logoColor=black" />
+  <img src="https://img.shields.io/badge/University-Brawijaya-blue?style=flat-square&logo=academia&logoColor=white" />
+  <img src="https://img.shields.io/badge/Email-adikusuma@student.ub.ac.id-black?style=flat-square&logo=gmail&logoColor=white" />
 </p>
 
 ---
 
-### 💡 About Me
+### 🧭 About Me
+> *“Simplicity is the ultimate sophistication.”* — *Leonardo da Vinci*
 
-🎓 **Universitas Brawijaya** — Bachelor of Computer Engineering  
-🏆 **3rd Place** – Capstone AIoT Showcase FILKOM UB 2025  
-📍 Jakarta, Indonesia  
-💬 Interested in: AI Systems, Data Engineering, Edge AI
+- 🎓 Computer Engineering @ **Universitas Brawijaya**  
+- 🏆 3rd Place – **Capstone AIoT Showcase FILKOM UB 2025**  
+- 🧠 Passionate about **AI Systems**, **Data Engineering**, **IoT**, and **Backend Development**  
+- 🌱 Currently improving skills in **MLOps**, **Edge AI**, and **Cloud Architectures**  
 
 ---
 
-### 🔧 Tech Stack
+### ✨ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,java,javascript,html,css,sql" />
-  <br />
-  <img src="https://skillicons.dev/icons?i=tensorflow,keras,pytorch,docker,azure,aws,git,mongodb,figma" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,sql,js,java" />
+  <br>
+  <img src="https://skillicons.dev/icons?i=tensorflow,keras,docker,git,azure,aws,mongodb,figma" />
 </p>
 
 ---
 
-### 🚀 Highlight Projects
+### ⚙️ Selected Projects
 
-- 🎯 **Smart Surveillance AI (ESP32-CAM + MobileNetV2)**  
-  <sub>Detecting uniforms & verifying personnel in real-time using edge AI & AWS IoT</sub>
+#### Smart Surveillance AI  
+A real-time edge system using **ESP32-CAM**, detecting uniforms and validating faces with **MobileNetV2** (70KB). Integrated with **AWS IoT Core** + **Blynk** mobile interface.
 
-- 📊 **Blinkit Mart Sales Analysis (SQL + Power BI)**  
-  <sub>Full pipeline project with dynamic dashboards for KPI tracking</sub>
+#### Blinkit Grocery Dashboard  
+Automated sales pipeline with **SQL + Power BI**, featuring responsive KPI tracking and anomaly spotting.
 
-- 🧠 **Emotion Detection with CNN (92% Accuracy)**  
-  <sub>Facial expression classifier in real-time using OpenCV + TensorFlow</sub>
+#### CNN-Based Emotion Detection  
+Built a face-based emotion recognizer using **TensorFlow** + **OpenCV**, reaching 92% test accuracy.
 
-- 🏘️ **Property Investment Recommender**  
-  <sub>A* Search + Prolog reasoning to find optimal housing investment</sub>
+#### Property Investment Recommender  
+Optimized 5,000+ listings using **A\*** search + **Prolog** logic to suggest ideal investment properties in East Java.
 
 ---
 
-### 📈 GitHub Stats
+### 📊 GitHub Insights
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=adiikusuma&show_icons=true&theme=tokyonight&hide_border=true" width="47%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=adiikusuma&theme=tokyonight&hide_border=true" width="47%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adiikusuma&layout=compact&theme=tokyonight&hide_border=true" width="47%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=adiikusuma&show_icons=false&theme=graywhite&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adiikusuma&layout=compact&theme=graywhite&hide_border=true" width="48%" />
 </p>
 
 ---
 
-### 📫 Reach Me
+### 🤝 Let's Connect
 
 <p align="center">
-  <a href="mailto:adikusuma@student.ub.ac.id"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/adiikusuma/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:adikusuma@student.ub.ac.id"><img src="https://img.shields.io/badge/Email-adikusuma@student.ub.ac.id-000000?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/adiikusuma/"><img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:5e60ce,100:7400b8&height=120&section=footer"/>
-
