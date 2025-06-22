@@ -6,7 +6,7 @@
 
 <p align="center">
   <strong>Computer Engineering @ Universitas Brawijaya (GPA: 3.96)</strong><br>
-  Passionate about AI Systems, Data Engineering, Data Analytics, BackEnd Development, and Embedded System<br>
+  Passionate about AI , Data Engineering, Data Analytics, BackEnd Development, and Embedded System<br>
   📍 Jakarta, Indonesia · 📧 adikusuma@student.ub.ac.id · <a href="https://linkedin.com/in/adiikusuma">LinkedIn</a>
 </p>
 
