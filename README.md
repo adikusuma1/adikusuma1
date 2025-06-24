@@ -35,7 +35,7 @@ Computer Engineering Student at Universitas Brawijaya with hands-on experience i
 | **Medallion Data Pipeline (Azure)** | Data Engineer | Azure ADF, DBT, Delta Lake | Created medallion architecture pipeline (Bronze → Gold) for efficient transformation & storage |
 | **Emotion Detection CNN** | Machine Learning Dev | TensorFlow, OpenCV | Real-time facial emotion classifier (92% accuracy), used hyperparameter tuning |
 | **Property Investment Optimizer** | Machine Learning Dev | Python, SWI Prolog, A* Search | AI-based decision support system that filters optimal property matches |
-| **System Management Streaming Platform** | DB Engineer | SQL, Python, Power BI | Built backend DB logic and dashboards for user behavior analytics |
+| **System Management Streaming Platform** | DB Engineer | SQL | Built backend DB logic and dashboards for user behavior analytics |
 
 ---
 
