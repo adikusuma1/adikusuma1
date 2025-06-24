@@ -30,11 +30,11 @@ Computer Engineering Student at Universitas Brawijaya with hands-on experience i
 |--------|------|------|---------|
 | **Smart Surveillance System (AIoT)** | Embedded ML | Python, TensorFlow, C++, ESP32, AWS | Edge-based vision system detecting uniforms & faces, 70KB MobileNetV2, real-time via Blynk + AWS |
 | **Amazon E-Commerce Data Engineering Pipeline** | Data Engineer | Azure, Data Factory, Data Bricks, Spark, Power BI, Delta Live | Create medallion architecture Dynamicly got raw data from GitHub to Gold Layer and transfer to Power BI Data Analytics |
-| **Data Slayer Competition : Human Fall Detection** | Machine Learning | Python, TensorFlow, Scikit-learn | Create model machine learning achive val_acc 99,8% and submission csv public kaggle 91% |
+| **Data Slayer Competition : Human Fall Detection** | Machine Learning Dev | Python, TensorFlow, Scikit-learn | Create model machine learning achive val_acc 99,8% and submission csv public kaggle 91% |
 | **Blinkit Mart Sales Analysis** | Data Analyst | SQL, Power BI, Python | Built automated dashboards, cleaned & standardized data for reliable KPI monitoring |
 | **Medallion Data Pipeline (Azure)** | Data Engineer | Azure ADF, DBT, Delta Lake | Created medallion architecture pipeline (Bronze → Gold) for efficient transformation & storage |
-| **Emotion Detection CNN** | ML Dev | TensorFlow, OpenCV | Real-time facial emotion classifier (92% accuracy), used hyperparameter tuning |
-| **Property Investment Optimizer** | AI Dev | Python, SWI Prolog, A* Search | AI-based decision support system that filters optimal property matches |
+| **Emotion Detection CNN** | Machine Learning Dev | TensorFlow, OpenCV | Real-time facial emotion classifier (92% accuracy), used hyperparameter tuning |
+| **Property Investment Optimizer** | Machine Learning Dev | Python, SWI Prolog, A* Search | AI-based decision support system that filters optimal property matches |
 | **System Management Streaming Platform** | DB Engineer | SQL, Python, Power BI | Built backend DB logic and dashboards for user behavior analytics |
 
 ---
