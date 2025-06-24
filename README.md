@@ -1,7 +1,7 @@
 <!-- Elegant GitHub README | Dark Pastel Theme -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=gradient&text=Hi%20👋%20I'm%20Adi%20Kusuma&fontAlignY=40&fontColor=ffffff&fontSize=40&desc=Computer%20Engineering%20%7C%20ML%20%7C%20Data%20%7C%20BackEnd&descSize=20&descAlignY=60" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=gradient&text=Hi%20I'm%20Adi%20Kusuma&fontAlignY=40&fontColor=ffffff&fontSize=40&desc=Computer%20Engineering%20%7C%20ML%20%7C%20Data%20%7C%20BackEnd&descSize=20&descAlignY=60" />
 </p>
 
 <p align="center">
